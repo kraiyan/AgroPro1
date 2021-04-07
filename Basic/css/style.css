@@ -173,6 +173,15 @@ section.callaction {
 }
 
 
+/* footer adjustment*/
+.footerclass{
+	padding-bottom: 100px;
+}
+
+
+
+
+
 h1,h2, h3, h4, h5, h6 {
 	font-family:'Open Sans', Arial, sans-serif;
 	font-weight:700;
@@ -1108,10 +1117,7 @@ ul.breadcrumb li a:hover {
 
 /* Feature
 ============================ */
-.content_white {
-text-align: center;
-padding: 3em 0;
-}
+
 .content_white {
 text-align: center;
 padding: 3em 0;
